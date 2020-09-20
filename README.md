@@ -24,8 +24,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 5. Push the above changes to GitHub or GitLab.
 
-6. Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
 ### Level 1: Automatic Table and Date Search (Required)
 
 * Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
