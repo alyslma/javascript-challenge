@@ -11,7 +11,6 @@ var form = d3.select("form");
 formTable(tableData);
 
 function formTable(dataTable) {
-
     dataTable.forEach((row) => {
         var t_row = t_body.append("tr");
 
@@ -51,4 +50,3 @@ function resetTable() {
     t_body.html("");
     formTable(tableData);
 }
-
